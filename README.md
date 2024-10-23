@@ -1,6 +1,4 @@
-Here’s a comprehensive `README.md` for the **GetX Starter** project based on your provided description.
 
-```markdown
 # GetX Starter
 
 A simple Flutter starter project using **GetX** for navigation and routing. This project includes a splash screen, a home page, login, and registration pages to serve as a reusable template for building apps with GetX.
